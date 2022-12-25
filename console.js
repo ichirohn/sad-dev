@@ -7,9 +7,7 @@ function main(){
 -return null;
 + console.log (1);
 
-  
 }
-
 - main ()
 -
 - // console.log(main)
