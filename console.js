@@ -11,3 +11,8 @@ function main(){
 }
 
 - main ()
+-
+- // console.log(main)
+
++main();
+
